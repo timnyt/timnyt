@@ -1,9 +1,9 @@
 ## Hello there 👋!
 
-My name is Tim and I'm a recent graduate of the QMSS (Quantitative Methods in the Social Sciences) Master's program at Columbia University.
+My name is Tim and I'm a Data Scientist at termina.ai. You can find code I've written for projects done in my spare time or in my previous life as a master's student here.
 
 - 🔭 Languages: R, Python, SQL
-- 📫 How to reach me: email at tn2472@columbia.edu
+- 📫 How to reach me: email at timnyt@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can move my ears without touching them....
 
